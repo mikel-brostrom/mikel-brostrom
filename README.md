@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm an engineer with interest in applied and R&D ML.  
-I am an open source advocate.  
 Currently working on deploying deep learning models on edge devices.  
+I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
 
