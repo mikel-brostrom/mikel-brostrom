@@ -9,7 +9,7 @@ I am an open source advocate.
 
 * [Tracking using Yolov5 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet)(3.1k Stars)
 
-* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet)(?k Stars)
+* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet)
 
 ⚡  Some of my notable open source contributions:
 
