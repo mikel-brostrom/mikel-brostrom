@@ -16,4 +16,4 @@ I am an open source advocate.
 * [Deep Person ReID](https://github.com/KaiyangZhou/deep-person-reid)(3.5k Stars) - Enabled export to ONNX, OpenVINO and TFLite
 
 
-<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=mikel-brostrom&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true&theme=tokyonight" /><img width="53%"  src="https://github-readme-stats.vercel.app/api?username=mikel-brostrom&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight" />
