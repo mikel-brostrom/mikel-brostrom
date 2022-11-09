@@ -11,6 +11,8 @@ I am an open source advocate.
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (160 Stars)
 
+* [Tracking using Yolov3 with DeepSort](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) (110 Stars)
+
 ⚡  Some of my notable open source contributions:
 
 * [Deep Person ReID](https://github.com/KaiyangZhou/deep-person-reid) (3.6k Stars) - Enabled export to ONNX, OpenVINO and TFLite [PR](https://github.com/KaiyangZhou/deep-person-reid/pull/514)
