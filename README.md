@@ -7,7 +7,7 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Tracking using Yolov5 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) (3.4k Stars)
+* [A collection of real-time multi-object SOTA trackers using YOLOv5](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) (3.4k Stars)
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (160 Stars)
 
