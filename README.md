@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm an engineer with interest in applied and R&D ML.  
-Currently working on deploying deep learning models on edge devices.  
+Currently working on building lightweight object detectors and deploying them on edge devices.  
 I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
