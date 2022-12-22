@@ -1,6 +1,8 @@
 ### Hi there 👋
-I'm an engineer with interest in applied and R&D ML.  
+I'm an engineer with interest in applied and R&D ML. 
+
 Currently building Yolov3 and 4 from scratch in PyTorch Lightning.
+
 I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
