@@ -9,9 +9,9 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Real-time multi-object tracking and segmentation using Yolov5 with StrongSORT and OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) (+3.6k Stars)
+* [Real-time multi-object tracking and segmentation using Yolov5 with StrongSORT and OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) (+4k Stars)
 
-* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+200 Stars)
+* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
 
 * [Tracking using Yolov3 with DeepSort](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) (110 Stars)
 
@@ -21,7 +21,7 @@ I am an open source advocate.
 
 * [Yolov5 Face](https://github.com/deepcam-cn/yolov5-face) (1.3k Stars) - Expanded the usage of detection script beyond static images, adding support for multiple stream sources: webcam, folders containing images and videos [PR](https://github.com/deepcam-cn/yolov5-face/pull/201)
 
-* [Albumentations](https://github.com/albumentations-team/albumentations) (1.3k Stars) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
+* [Albumentations](https://github.com/albumentations-team/albumentations) (11.4k Stars) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
 
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true&theme=tokyonight" />
 
