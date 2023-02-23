@@ -21,6 +21,8 @@ I am an open source advocate.
 
 * [Yolov5 Face](https://github.com/deepcam-cn/yolov5-face) (1.3k Stars) - Expanded the usage of detection script beyond static images, adding support for multiple stream sources: webcam, folders containing images and videos [PR](https://github.com/deepcam-cn/yolov5-face/pull/201)
 
+* [Albumentations](https://github.com/albumentations-team/albumentations) (1.3k Stars) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
+
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true&theme=tokyonight" />
 
 <img width="43%"  src="https://github-readme-stats.vercel.app/api?username=mikel-brostrom&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true&theme=tokyonight" />
