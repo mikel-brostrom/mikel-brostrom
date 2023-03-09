@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm an engineer with interest in applied and R&D ML. 
+I'm an engineer with interest in applied and R&D ML. I am known in github for pairing up
+SOTA real-time models with SOTA tracking modules.
 
-Currently building Yolov3 and 4 from scratch in PyTorch Lightning.
+Currently building Yolov3 and 4 from scratch in PyTorch Lightning and
+INT8 quantizing TFLite and PTLite models.
 
 I am an open source advocate.  
 
