@@ -3,7 +3,7 @@ I'm an engineer with interest in applied and R&D ML. I am known in github for pa
 SOTA real-time models with SOTA tracking modules.
 
 ~~Currently building Yolov3 and 4 from scratch in PyTorch Lightning~~ and
-INT8 quantizing TFLite and PTLite models.
+INT8 quantizing TFLite and ONNX models.
 
 I am an open source advocate.  
 
