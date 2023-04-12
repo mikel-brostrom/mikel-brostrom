@@ -2,8 +2,13 @@
 I'm an engineer with interest in applied and R&D ML. I am known in github for pairing up
 SOTA real-time models with SOTA tracking modules.
 
-~~Currently building Yolov3 and 4 from scratch in PyTorch Lightning~~ and
-INT8 quantizing TFLite and ONNX models.
+Currently:
+
+* ~~building Yolov3 and 4 from scratch in PyTorch Lightning~~ 
+
+* ~~INT8 quantizing TFLite and ONNX models.~~
+
+* Interating ONNX models in emedded devices using opencv
 
 I am an open source advocate.  
 
