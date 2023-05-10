@@ -10,7 +10,7 @@ Currently:
 
 * ~~Integrating ONNX models in emedded devices using opencv~~
 
-* Integrate models into Axera CPUs with NPU capabilities
+* ~~Integrate models into Axera CPUs with NPU capabilities~~
 
 I am an open source advocate.  
 
@@ -18,7 +18,7 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Real-time multi-object tracking and segmentation using Yolov5 with StrongSORT and OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) (+4k Stars)
+* [Real-time multi-object tracking and segmentation using Yolov8 with DeepOCSORT and OSNet](https://github.com/mikel-brostrom/Yolov8_DeepOCSORT_OSNet) (+4.6k Stars)
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
 
