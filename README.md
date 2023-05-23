@@ -8,7 +8,7 @@ Currently:
 
 * ~~INT8 quantizing TFLite and ONNX models.~~
 
-* ~~Integrating ONNX models in emedded devices using opencv~~
+* ~~Integrating ONNX models in embedded devices using opencv~~
 
 * ~~Integrate models into Axera CPUs with NPU capabilities~~
 
