@@ -12,7 +12,7 @@ Currently:
 
 * ~~Integrate models into Axera CPUs with NPU capabilities~~
 
-* CI PYPI package publication
+* ~~Automatic and sync'ed release and PYPI package publication~~
 
 I am an open source advocate.  
 
