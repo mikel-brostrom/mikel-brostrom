@@ -12,10 +12,6 @@ Currently:
 
 * ~~Integrate models into Axera CPUs with NPU capabilities~~
 
-* ~~Sync'ed repo versiono release and PYPI package version publication~~
-
-* Publish github package
-
 I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
