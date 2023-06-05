@@ -18,7 +18,7 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+4.6k Stars)
+* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+4.8k Stars)
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
 
