@@ -18,7 +18,7 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Real-time multi-object tracking and segmentation using Yolov8 with DeepOCSORT and OSNet](https://github.com/mikel-brostrom/Yolov8_DeepOCSORT_OSNet) (+4.6k Stars)
+* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+4.6k Stars)
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
 
