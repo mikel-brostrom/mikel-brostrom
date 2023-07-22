@@ -12,13 +12,15 @@ Currently:
 
 * ~~Integrate models into Axera CPUs with NPU capabilities~~
 
+* ~~Make camera motion compensation methods (SIFT, ORB, ECC, SparseOptFlow) run in real-time~~
+
 I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
 
 🚀  Some of my notable open source projects:
 
-* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+4.8k Stars)
+* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+5.1k Stars)
 
 * [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
 
