@@ -20,19 +20,19 @@ I am an open source advocate.
 
 🚀  Some of my notable open source projects:
 
-* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking) (+5.2k Stars)
+* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking)
 
-* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) (+300 Stars)
+* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet)
 
-* [Tracking using Yolov3 with DeepSort](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) (110 Stars)
+* [Tracking using Yolov3 with DeepSort](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch)
 
 ⚡  Some of my notable open source contributions:
 
-* [Deep Person ReID](https://github.com/KaiyangZhou/deep-person-reid) (3.9k Stars) - Enabled export to ONNX, OpenVINO and TFLite [PR](https://github.com/KaiyangZhou/deep-person-reid/pull/514)
+* [Deep Person ReID](https://github.com/KaiyangZhou/deep-person-reid) - Enabled export to ONNX, OpenVINO and TFLite [PR](https://github.com/KaiyangZhou/deep-person-reid/pull/514)
 
-* [Yolov5 Face](https://github.com/deepcam-cn/yolov5-face) (1.7k Stars) - Expanded the usage of detection script beyond static images, adding support for multiple stream sources: webcam, folders containing images and videos [PR](https://github.com/deepcam-cn/yolov5-face/pull/201)
+* [Yolov5 Face](https://github.com/deepcam-cn/yolov5-face) - Expanded the usage of detection script beyond static images, adding support for multiple stream sources: webcam, folders containing images and videos [PR](https://github.com/deepcam-cn/yolov5-face/pull/201)
 
-* [Albumentations](https://github.com/albumentations-team/albumentations) (11.4k Stars) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
+* [Albumentations](https://github.com/albumentations-team/albumentations) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
 
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true&theme=tokyonight" />
 
