@@ -19,13 +19,7 @@ I am an open source advocate.
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
 
-⚡  Some of my notable open source contributions:
 
-* [Deep Person ReID](https://github.com/KaiyangZhou/deep-person-reid) - Enabled export to ONNX, OpenVINO and TFLite [PR](https://github.com/KaiyangZhou/deep-person-reid/pull/514)
-
-* [Yolov5 Face](https://github.com/deepcam-cn/yolov5-face) - Expanded the usage of detection script beyond static images, adding support for multiple stream sources: webcam, folders containing images and videos [PR](https://github.com/deepcam-cn/yolov5-face/pull/201)
-
-* [Albumentations](https://github.com/albumentations-team/albumentations) - Implemented MixUp [PR](https://github.com/albumentations-team/albumentations/pull/1409)
 
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mikel-brostrom&hide_border=true&theme=tokyonight" />
 
