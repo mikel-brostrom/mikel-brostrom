@@ -14,17 +14,10 @@ Currently:
 
 * ~~Make camera motion compensation methods (SIFT, ORB, ECC, SparseOptFlow) run in real-time~~
 
+
 I am an open source advocate.  
 
 📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
-
-🚀  Some of my notable open source projects:
-
-* [Yolo Tracking](https://github.com/mikel-brostrom/yolo_tracking)
-
-* [Tracking using Yolov7 StrongSORT with OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet)
-
-* [Tracking using Yolov3 with DeepSort](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch)
 
 ⚡  Some of my notable open source contributions:
 
