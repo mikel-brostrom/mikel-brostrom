@@ -6,7 +6,7 @@ segmentation, and pose estimation models with SOTA tracking modules.
 In my free time, I enjoy reading about depth psychology and lifting heavy weights.
 I am an open source advocate.  
 
-📫 How to reach me: yolov5.deepsort.pytorch@gmail.com
+📫 How to reach me: box-mot@outlook.com
 
 
 
