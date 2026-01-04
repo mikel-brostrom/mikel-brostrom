@@ -3,7 +3,7 @@
 I'm Mikel, creator of [BoxMOT](https://github.com/mikel-brostrom/yolo_tracking), an engineer with a focus on applied and R&D in machine learning.
 On GitHub, I'm recognized for integrating SOTA real-time object detection,
 segmentation, and pose estimation models with SOTA tracking modules. 
-In my free time, I enjoy reading about depth psychology and lifting heavy weights.
+In my free time, I enjoy reading about analytical psychology and lifting heavy weights.
 I am an open source advocate.  
 
 📫 How to reach me: box-mot@outlook.com
